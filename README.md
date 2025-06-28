@@ -31,10 +31,10 @@ This project serves as a foundational step in understanding schematic creation, 
 ## **Preview**
 
 ### **Schematic**
-![Schematic View](ScreenShots/Schematic .png)
+![Schematic View](ScreenShots/Schematic.png)
 
 ### **PCB Layout**
-![PCB Layout](ScreenShots/.png)
+![PCB Layout](ScreenShots/3DPCB.png)
 
 ---
 
