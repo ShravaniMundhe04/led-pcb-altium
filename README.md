@@ -36,6 +36,16 @@ This project serves as a foundational step in understanding schematic creation, 
 ### **PCB Layout**
 ![PCB Layout](ScreenShots/3DPCB.png)
 
+### **Header Footprint**
+![header Footprint](ScreenShots/Headerfootprint.png)
+
+### ** LED Footprint**
+![LED Footprint](ScreenShots/LEDfootprint.png)
+
+### ** Resistor Footprint**
+![Resistor Footprint](ScreenShots/Resistorfootprint.png)
+
+
 ---
 
 ## **License**
