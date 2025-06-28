@@ -39,10 +39,10 @@ This project serves as a foundational step in understanding schematic creation, 
 ### **Header Footprint**
 ![header Footprint](ScreenShots/Headerfootprint.png)
 
-### ** LED Footprint**
+### **LED Footprint**
 ![LED Footprint](ScreenShots/LEDfootprint.png)
 
-### ** Resistor Footprint**
+### **Resistor Footprint**
 ![Resistor Footprint](ScreenShots/Resistorfootprint.png)
 
 
